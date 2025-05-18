@@ -11,7 +11,7 @@ A backend service built using **FastAPI** that enables sending notifications via
   -  Email
   -  SMS
   -  In-App
-- ✅ REST API with Swagger UI for testing
+-  REST API with Swagger UI for testing
 
 ---
 
